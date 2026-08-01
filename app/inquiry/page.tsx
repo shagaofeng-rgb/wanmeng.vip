@@ -1,0 +1,1 @@
+import {InquiryForm} from '@/components/Interactive';export default function Page(){return <><section className="page-hero compact"><p className="eyebrow">SIZE ADVICE</p><h1>告诉我们一点你的宿舍情况，<br/>一起找到更合适的解决方式。</h1></section><section className="section narrow"><InquiryForm/></section></>}

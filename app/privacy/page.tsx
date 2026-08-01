@@ -1,0 +1,1 @@
+export default function Page(){return <article className="article section"><p className="eyebrow">PRIVACY</p><h1>隐私政策</h1><p>我们仅在你主动提交咨询、尺寸建议或团购需求时，收集完成沟通所必需的信息，例如姓名、手机号、学校或床位情况。</p><h2>信息如何使用</h2><p>这些信息用于回复咨询、提供尺寸与产品建议，以及沟通团购需求。未经允许，我们不会将信息用于无关目的。</p><h2>你的选择</h2><p>你可以联系挽梦，询问、更正或删除已提交的信息。本地预览版本的表单仅展示交互，不会发送到服务器。</p></article>}

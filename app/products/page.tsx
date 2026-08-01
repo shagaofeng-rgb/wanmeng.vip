@@ -1,0 +1,1 @@
+import {ProductBrowser} from '@/components/Interactive';export const metadata={title:'产品中心'};export default function Page(){return <><section className="page-hero compact"><p className="eyebrow">PRODUCTS</p><h1>不是所有床帘都一样，<br/>适合你的，才是刚刚好。</h1></section><section className="section"><ProductBrowser/></section></>}

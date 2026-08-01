@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <section className="notfound"><span>404</span><h1>这块帘幕后面，暂时没有内容。</h1><p>回到熟悉的地方继续看看吧。</p><Link className="btn" href="/">返回首页</Link></section>}

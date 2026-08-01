@@ -1,0 +1,1 @@
+export const siteConfig={brand:'挽梦家纺',brandEn:'WANMENG HOME',company:'绍兴挽梦家纺有限公司',phone:'188 3720 0872',email:'382512792@qq.com',address:'浙江省绍兴市柯桥区钱清街道联强镇挽梦四号楼',hours:'周一至周六 09:00–18:00',primary:'#183f3a'};

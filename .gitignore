@@ -1,0 +1,6 @@
+.next
+node_modules
+.material-extract
+.pnpm-store
+dev-server.log
+dev-server-error.log
