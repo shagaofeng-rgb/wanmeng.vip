@@ -4,3 +4,6 @@ node_modules
 .pnpm-store
 dev-server.log
 dev-server-error.log
+
+.vercel
+.env*
