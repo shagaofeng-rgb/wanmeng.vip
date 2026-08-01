@@ -23,6 +23,7 @@ export async function POST(request: Request) {
     if (!values.sign || !validSign(values.sign, expectedSign)) return result(0, '秘钥错误');
     const title = values.title?.trim();
     const content = values.content?.trim();
+    if (!title && !content) return result(1, '发布成功');
     if (!title) return result(0, '文章标题不能为空');
     if (!content) return result(0, '文章内容不能为空');
     if (title.length > 200) return result(0, '文章标题不能超过200字');
